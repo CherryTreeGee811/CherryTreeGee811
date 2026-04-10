@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science (Honors) Student
+Computer Science (Honours) Student
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-taylor-070ab2361) 
